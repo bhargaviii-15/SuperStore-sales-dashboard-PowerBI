@@ -9,39 +9,31 @@ The dashboard provides valuable business insights on sales, profit, and customer
 ## 🧩 Key Features
 
 ### 1. **Sales Insights**
-- Total Sales: **$1.6M**  
-- Total Quantity Sold: **22K**  
-- Total Profit: **$175K**
+- Total Sales
+- Total Quantity Sold 
+- Total Profit
 
 ### 2. **Category & Sub-Category Analysis**
-- Top-performing categories: **Office Supplies, Technology, and Furniture**
-- Highest sales sub-categories: **Phones, Chairs, and Binders**
+- Top-performing categories
+- Highest sales sub-categories
 
 ### 3. **Regional Performance**
-- Top region: **West (33%)**  
-- Other regions: East (29%), Central (22%), South (16%)
+- Top region
+- Other regions
 
 ### 4. **Sales by Segment**
-- Consumer: 48%  
-- Corporate: 33%  
-- Home Office: 19%
 
 ### 5. **Shipping and Payment Insights**
-- Average Shipping Days: **10 days**  
-- Top Ship Mode: **Standard Class (0.33M sales)**  
-- Payment Modes: **Online (43%)**, **Cards (35%)**, **Cash on Delivery (22%)**
+- Average Shipping Days 
+- Top Ship Mode
+- Payment Modes
 
 ### 6. **Monthly Trends**
-- Seasonal sales trends for **2019–2020**
+- Seasonal sales trends for 
 - Monthly profit comparison across years
 
 ### 7. **Forecasting**
 - 15-day **Sales Forecast by State**
-- Top States by Sales Forecast:  
-  - California (0.34M)  
-  - New York (0.19M)  
-  - Texas (0.12M)
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -89,8 +81,8 @@ The dashboard provides valuable business insights on sales, profit, and customer
 ## 👨‍💻 Author
 **Bhargavi Y**  
 📧 bhargaviyogesh15@gmail.com 
-💼 [LinkedIn Profile]  
-🌐 [Portfolio or GitHub Profile]
+💼 https://www.linkedin.com/in/bhargavi-y-9a06a8322/
+🌐 https://github.com/bhargaviii-15
 
 ---
 
